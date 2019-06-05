@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GuessingGame</string>
+    <string name="action_settings">Settings</string>
+    <string name="damian_bajno_guessing_game">Damian Bajno Guessing Game</string>
+    <string name="enter_a_number_between_1_and_100">Enter a number between 1 and 100:</string>
+    <string name="guess">Guess</string>
+    <string name="enter_a_number_then_click_guess">Enter a number, then click Guess.</string>
+</resources>
